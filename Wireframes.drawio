@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-11T10:51:20.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="dgRUMUogVRLKhdMTEeX2" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-11T10:53:18.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="B50gX1FjEbAf3QIkPKjO" version="13.0.9" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="2830" dy="117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4066" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,7 +220,7 @@
           <mxGeometry x="2250" y="950" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZQMXC3zUCRYEKw2udhes-412" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse ; font-size: 22px&quot;&gt;&lt;tbody style=&quot;font-size: 22px&quot;&gt;&lt;tr style=&quot;background-color: rgb(167 , 201 , 66) ; color: rgb(255 , 255 , 255) ; border: 1px solid rgb(152 , 191 , 33) ; font-size: 22px&quot;&gt;&lt;th align=&quot;left&quot; style=&quot;font-size: 22px&quot;&gt;Ballot ID&lt;/th&gt;&lt;th align=&quot;left&quot; style=&quot;font-size: 22px&quot;&gt;Time registered&lt;/th&gt;&lt;th align=&quot;left&quot; style=&quot;font-size: 22px&quot;&gt;Ballot name&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;font-weight: 700&quot;&gt;Ballot end date&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;font-weight: 700&quot;&gt;Ballot address&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Action&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: rgb(234 , 242 , 211) ; border: 1px solid rgb(152 , 191 , 33) ; font-size: 22px&quot;&gt;&lt;td style=&quot;font-size: 22px&quot;&gt;10&lt;/td&gt;&lt;td style=&quot;font-size: 22px&quot;&gt;06/05/2020&lt;/td&gt;&lt;td style=&quot;font-size: 22px&quot;&gt;Open ballot&lt;/td&gt;&lt;td&gt;10/05/2020&lt;/td&gt;&lt;td&gt;&lt;font style=&quot;box-sizing: border-box ; color: rgb(0 , 123 , 255) ; background-color: rgba(0 , 0 , 0 , 0.05) ; font-size: 20px&quot;&gt;&lt;a href=&quot;https://ropsten.etherscan.io/address/0x15f388F3301B0E560E350371CAD90F9efa570Fa0&quot; style=&quot;box-sizing: border-box ; color: rgb(0 , 123 , 255) ; background-color: rgba(0 , 0 , 0 , 0.05)&quot;&gt;0x15f388F3301B0&lt;/a&gt;....&lt;/font&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="2230" y="997.5" width="1040" height="245" as="geometry" />
+          <mxGeometry x="2240" y="1070" width="1040" height="245" as="geometry" />
         </mxCell>
         <mxCell id="ZQMXC3zUCRYEKw2udhes-414" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="-1080" y="1720" width="1060" height="830" as="geometry" />
@@ -388,7 +388,10 @@
           <mxGeometry x="1160" y="2730" width="920" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T_FNu8_mERVC_th2VJMV-2" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;View&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="3180" y="1158.5" width="80" height="33" as="geometry" />
+          <mxGeometry x="3180" y="1237" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="T_FNu8_mERVC_th2VJMV-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Add new ballot&lt;/font&gt;" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="2240" y="997.5" width="170" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="ZQMXC3zUCRYEKw2udhes-19" parent="0" />
         <mxCell id="ZQMXC3zUCRYEKw2udhes-60" value="Banner" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="ZQMXC3zUCRYEKw2udhes-19" vertex="1">
